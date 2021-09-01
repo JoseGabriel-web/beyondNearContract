@@ -1,0 +1,1 @@
+export import "near-sdk-as/asconfig.json"

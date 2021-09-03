@@ -8,7 +8,6 @@
 - Donar a una campaña.
 - Eliminar una campaña.
 
----
 
 ## Instalación
 
@@ -31,17 +30,17 @@ Para la instalación local de este projecto:
 Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
 
 ```html
-    <p>near login</p>
+    near login
 ```
 
 ## Clonar el repositorio
 
 ```html
-    <p>git clone https://github.com/JoseGabriel-web/beyondNearContract.git</p>
+    git clone https://github.com/JoseGabriel-web/beyondNearContract.git
 ```
 
 ```html
-    <p>cd beyondNearContract</p>
+    cd beyondNearContract
 ```
 
 ## Build del proyecto y despliegue en development mode.
@@ -50,49 +49,47 @@ Instalar las dependencias necesarias con npm.
 
 
 ```html
-    <p>npm install</p>
+    npm install
 ```
 
 Hacer el build y deployment en development mode.
 
 
 ```html
-    <p>yarn devdeploy</p>
+    yarn devdeploy
 ```
 
----
 
 #### Comando para crear una campaña:
 
 ```html
-    <p>near call <your deployed contract> createCampaing "{\"categorie\": \"string\", \"objectives\": \"string\", \"location\":\"string\", \"goal\": number}" --account-id <your test account></p>
+    near call <your deployed contract> createCampaing "{\"categorie\": \"string\", \"objectives\": \"string\", \"location\":\"string\", \"goal\": number}" --account-id <your test account>
 ```
 
 #### Comando para conseguir informacion de una campaña:
 
 ```html
-    <p>near call <your deployed contract> getCampaing "{\"id\": number}" --account-id <your test account></p>
+    near call <your deployed contract> getCampaing "{\"id\": number}" --account-id <your test account>
 ```
 
 #### Comando para conseguir lista de campañas:
 
 ```html
-    <p>near call <your deployed contract> getCampaings "{}" --account-id <your test account></p>
+    near call <your deployed contract> getCampaings "{}" --account-id <your test account>
 ```
 
 #### Comando para hacer donacion a una campaña:
 
 ```html
-    <p>near call <your deployed contract> donate "{\"campaingID\": number, \"cuantity\": number}" --account-id <your test account></p>
+    near call <your deployed contract> donate "{\"campaingID\": number, \"cuantity\": number}" --account-id <your test account>
 ```
 
 #### Comando para eliminar una campaña:
 
 ```html
-    <p>near call <your deployed contract> deleteCampaing "{\"id\": number}" --account-id <your test account></p>
+    near call <your deployed contract> deleteCampaing "{\"id\": number}" --account-id <your test account>
 ```
 
----
 
 ## Explora el codigo:
 
@@ -120,7 +117,6 @@ BeyondNear smart contract file system.
 └── yarn.lock                                       # project manifest lock version
 ```
 
----
 
 ## Gracias por visitar nuestro proyecto. :wave:
 
@@ -128,7 +124,6 @@ BeyondNear smart contract file system.
 
 [Inicio](#read-me-template)
 
----
 
 ## License
 

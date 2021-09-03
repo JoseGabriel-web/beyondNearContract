@@ -9,7 +9,7 @@
 - Eliminar una campaña.
 
 
-## Instalación
+# Instalación
 
 Para la instalación local de este projecto:
 
@@ -25,7 +25,7 @@ Para la instalación local de este projecto:
 
 - Instalar el NEAR CLI globally: near-cli es una interfaz de linea de comando (CLI) para interacturar con NEAR blockchain.
 
-## Configurar NEAR CLI
+# Configurar NEAR CLI
 
 Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
 
@@ -33,7 +33,7 @@ Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
     near login
 ```
 
-## Clonar el repositorio
+# Clonar el repositorio
 
 ```html
     git clone https://github.com/JoseGabriel-web/beyondNearContract.git
@@ -43,7 +43,7 @@ Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
     cd beyondNearContract
 ```
 
-## Build del proyecto y despliegue en development mode.
+# Build del proyecto y despliegue en development mode.
 
 Instalar las dependencias necesarias con npm.
 
@@ -91,7 +91,7 @@ Hacer el build y deployment en development mode.
 ```
 
 
-## Explora el codigo:
+# Explora el codigo:
 
 BeyondNear smart contract file system.
 
@@ -118,11 +118,9 @@ BeyondNear smart contract file system.
 ```
 
 
-## Gracias por visitar nuestro proyecto. :wave:
+# Gracias por visitar nuestro proyecto. :wave:
 
-- Aqui les dejamos nuestro diseño - [UI/UX](https://www.google.com).
-
-[Inicio](#read-me-template)
+Aqui les dejamos nuestro diseño - [UI/UX](https://www.google.com).
 
 
 ## License
@@ -148,7 +146,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[Inicio](#read-me-template)
-
----

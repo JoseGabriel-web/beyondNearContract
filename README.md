@@ -98,29 +98,30 @@ BeyondNear smart contract file system.
 ```bash
 ├── assembly
 │   ├── __tests__
-│   │   ├── as-pect.d.ts                            # as-pect unit testing headers for type hints
-│   │   └── main.spec.ts                            # unit test for the contract
+│   │   ├── as-pect.d.ts                            # As-pect unit testing headers for type hints
+│   │   └── main.spec.ts                            # Unit test for the contract
 │   ├── as_types.d.ts                               # AssemblyScript headers for type hint
-│   ├── index.ts                                    # contains the smart contract code
-│   ├── models.ts                                   # contains code for the models accesible to the smart contract
+│   ├── index.ts                                    # Contains the smart contract code
+│   ├── models.ts                                   # Contains models accesible to the smart contract
+│   │   └── Campaing.ts                             # Contains Campaing model.
 │   └── tsconfig.json                               # Typescript configuration file
 ├── neardev
-│   ├── dev-account                                 #in this file the provisional deploy smart contract account is saved
-│   └── dev-account.env                             #in this file the provisional deploy smart contract account is saved like a environment variable                             
+│   ├── dev-account                                 # In this file the provisional deploy smart contract account is saved
+│   └── dev-account.env                             # In this file the provisional deploy smart contract account is saved like a environment variable                             
 ├── out
-│   └── main.wasm                                   # compiled smart contract code using to deploy
-├── as-pect.config.js                               # configuration for as-pect (AssemblyScript unit testing)
-├── asconfig.json                                   # configuration file for Assemblyscript compiler
-├── package-lock.json                               # project manifest lock version
+│   └── main.wasm                                   # Compiled smart contract code using to deploy
+├── as-pect.config.js                               # Configuration for as-pect (AssemblyScript unit testing)
+├── asconfig.json                                   # Configuration file for Assemblyscript compiler
+├── package-lock.json                               # Project manifest lock version
 ├── package.json                                    # Node.js project manifest (scripts and dependencies)
-├── README.md                                       # this file
-└── yarn.lock                                       # project manifest lock version
+├── README.md                                       # This file
+└── yarn.lock                                       # Project manifest lock version
 ```
 
 
 # Gracias por visitar nuestro proyecto. :wave:
 
-Aqui les dejamos nuestro diseño - [UI/UX](https://www.google.com).
+Aqui les dejamos nuestro diseño - [UI/UX](https://www.figma.com/file/768sgTudgZJ4B8I0MOA7f8/BeyondNear?node-id=0%3A1).
 
 
 ## License

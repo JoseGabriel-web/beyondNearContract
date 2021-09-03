@@ -1,4 +1,4 @@
-# BeyondNear
+# :earth_americas: BeyondNear
 
 BeyondNear es un smart contract bajo el Near protocol, el cual permite crear campañas para la recaudacion de fondos en nears dedicados a una causa especifica. Este smart contract permite:
 
@@ -9,7 +9,7 @@ BeyondNear es un smart contract bajo el Near protocol, el cual permite crear cam
 - Eliminar una campaña.
 
 
-# Instalación
+# :gear: Instalación
 
 Para la instalación local de este projecto:
 
@@ -25,7 +25,7 @@ Para la instalación local de este projecto:
 
 - Instalar el NEAR CLI globally: near-cli es una interfaz de linea de comando (CLI) para interacturar con NEAR blockchain.
 
-# Configurar NEAR CLI
+# :key: Configurar NEAR CLI
 
 Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
 
@@ -33,7 +33,7 @@ Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
     near login
 ```
 
-# Clonar el repositorio
+# :page_facing_up:	 Clonar el repositorio
 
 ```html
     git clone https://github.com/JoseGabriel-web/beyondNearContract.git
@@ -43,7 +43,7 @@ Configura tu near-cli para autorizar tu cuenta de prueba creada recientemente:
     cd beyondNearContract
 ```
 
-# Build del proyecto y despliegue en development mode.
+# :hammer_and_wrench: Build del proyecto y despliegue en development mode.
 
 Instalar las dependencias necesarias con npm.
 
@@ -91,7 +91,7 @@ Hacer el build y deployment en development mode.
 ```
 
 
-# Explora el codigo:
+# :world_map: Explora el codigo:
 
 BeyondNear smart contract file system.
 

@@ -1,6 +1,6 @@
 # BeyondNear
 
-> BeyondNear es un smart contract bajo el Near protocol, el cual permite crear campañas para la recaudacion de fondos en nears dedicados a una causa especifica. Este smart contract permite:
+BeyondNear es un smart contract bajo el Near protocol, el cual permite crear campañas para la recaudacion de fondos en nears dedicados a una causa especifica. Este smart contract permite:
 
 - Crear una campaña.
 - Conseguir informacion de una campaña.
@@ -13,7 +13,7 @@
 
 Para la instalación local de este projecto:
 
-#### Pre - requisitos
+## Pre - requisitos
 
 - Asegúrese de haber instalado Node.js ≥ 12 ((recomendamos usar nvm).
 

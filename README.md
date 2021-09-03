@@ -15,7 +15,7 @@ Para la instalación local de este projecto:
 
 ## Pre - requisitos
 
-- Asegúrese de haber instalado Node.js ≥ 12 ((recomendamos usar nvm).
+- Asegúrese de haber instalado Node.js ≥ 12 (recomendamos usar nvm).
 
 - Asegúrese de haber instalado yarn: npm install -g yarn.
 

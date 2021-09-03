@@ -215,7 +215,7 @@ asbuild@^0.2.0:
     eslint "^7.17.0"
     yargs "^15.4.1"
 
-assemblyscript-json@^1.0.0, assemblyscript-json@^1.1.0:
+assemblyscript-json@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/assemblyscript-json/-/assemblyscript-json-1.1.0.tgz#49d38bc21f1ac36f2887528a35de6cf7d59c17be"
   integrity sha512-UbE8ts8csTWQgd5TnSPN7MRV9NveuHv1bVnKmDLoo/tzjqxkmsZb3lu59Uk8H7SGoqdkDSEE049alx/nHnSdFw==

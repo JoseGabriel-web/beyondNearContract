@@ -1,19 +1,20 @@
 {
-  "name": "beyondnear_mockup",
-  "version": "1.0.0",
-  "description": "BeyondNear contract",
+  "name": "beyondnear",
+  "version": "0.0.1",
+  "description": "BeyondNear Smart Contract",
   "main": "index.js",
   "scripts": {
     "test": "asp",
     "build": "asb",
     "devdeploy": "npm run build && near dev-deploy"
   },
-  "author": "Jose Gabriel",
+  "authors": [
+    "josegabriel.near",
+    "mariocasas.near",
+    "tropa.near"
+  ],
   "license": "MIT",
   "devDependencies": {
     "near-sdk-as": "^3.2.3"
-  },
-  "dependencies": {
-    "assemblyscript-json": "^1.1.0"
   }
 }

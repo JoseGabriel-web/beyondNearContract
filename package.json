@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "asp",
-    "build": "asb"
+    "build": "asb",
+    "devdeploy": "npm run build && near dev-deploy"
   },
   "author": "Jose Gabriel",
   "license": "MIT",

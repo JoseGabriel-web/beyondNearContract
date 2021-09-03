@@ -1,1 +1,1 @@
-export import "near-sdk-as/asconfig.json"
+module.exports = require("near-sdk-as/imports");

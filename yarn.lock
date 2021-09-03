@@ -215,12 +215,7 @@ asbuild@^0.2.0:
     eslint "^7.17.0"
     yargs "^15.4.1"
 
-assemblyscript-json@^1.0.0:
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/assemblyscript-json/-/assemblyscript-json-1.1.0.tgz"
-  integrity sha512-UbE8ts8csTWQgd5TnSPN7MRV9NveuHv1bVnKmDLoo/tzjqxkmsZb3lu59Uk8H7SGoqdkDSEE049alx/nHnSdFw==
-
-assemblyscript-json@^1.1.0:
+assemblyscript-json@^1.0.0, assemblyscript-json@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/assemblyscript-json/-/assemblyscript-json-1.1.0.tgz#49d38bc21f1ac36f2887528a35de6cf7d59c17be"
   integrity sha512-UbE8ts8csTWQgd5TnSPN7MRV9NveuHv1bVnKmDLoo/tzjqxkmsZb3lu59Uk8H7SGoqdkDSEE049alx/nHnSdFw==
@@ -921,7 +916,7 @@ near-mock-vm@^3.2.2:
 
 near-sdk-as@^3.2.3:
   version "3.2.3"
-  resolved "https://registry.npmjs.org/near-sdk-as/-/near-sdk-as-3.2.3.tgz"
+  resolved "https://registry.yarnpkg.com/near-sdk-as/-/near-sdk-as-3.2.3.tgz#95f3dec1b38e542cd8f4347849147446586ee02f"
   integrity sha512-Msvmf8oRPathLjks9IzchQj8b8B4C8LS7O16WaaLj2dWT57TpDXLuizpABG7FwkqJ4oiZp5huoS9iWJjZrbBRg==
   dependencies:
     near-mock-vm "^3.2.2"
@@ -936,7 +931,7 @@ near-sdk-bindgen@^3.2.1:
 
 near-sdk-core@^3.2.1:
   version "3.2.1"
-  resolved "https://registry.npmjs.org/near-sdk-core/-/near-sdk-core-3.2.1.tgz"
+  resolved "https://registry.yarnpkg.com/near-sdk-core/-/near-sdk-core-3.2.1.tgz#d419d05d715f0947097018b41ebd7a791668aa12"
   integrity sha512-vS2tEqUzG5F81RMg+OkwTU0PoGYM54CsYSivNA3lUuFJwWAr4JN3PQwyqwAMJiRAjslqfMXG5iTnDzh3c6Qqng==
   dependencies:
     "@as-pect/cli" "^6.0.0"
